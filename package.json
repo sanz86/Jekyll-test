@@ -1,0 +1,24 @@
+{
+  "name": "jekyll-bootstrap",
+  "version": "1.0.0",
+  "description": "The quickest way to start and publish your Jekyll powered blog. 100% compatible with GitHub pages",
+  "main": "index.js",
+  "dependencies": {
+    "gh-pages": "^1.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "ghp": "ghpages"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sanz86/Jekyll-test.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sanz86/Jekyll-test/issues"
+  },
+  "homepage": "https://github.com/sanz86/Jekyll-test#readme"
+}
